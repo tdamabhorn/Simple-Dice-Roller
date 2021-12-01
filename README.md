@@ -6,6 +6,7 @@ More features I want to implement includes adding different sided dice, like 20-
 
 # How to set up
 Requires Python3 and an IDE that works with editting Python files
+
 Download the .zip, open the python file in your choice of python IDE, and run the python file
 
 # How to contribute
